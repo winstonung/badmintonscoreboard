@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/tv.css') }}">
+    <title>TV</title>
+</head>
+<body>
+    <div id="scoreboard">
+        <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+        <div id="player1" class="player">
+            <div id="player1name" class="playername">
+                <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+            </div>
+            <div id="player1serve" class="serve">
+                <img></img>
+            </div>
+            <div id="player1scoreset1" class="playerscore">
+                <p>0</p>
+            </div>
+            <div id="player1scoreset2" class="playerscore">
+                <p>0</p>
+            </div>
+            <div id="player1scoreset3" class="playerscore">
+                <p>0</p>
+            </div>
+        </div>
+        <div id="player2" class="player">
+            <div id="player2name" class="playername">
+                <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+            </div>
+            <div id="player2serve" class="serve">
+                <img></img>
+            </div>
+            <div id="player2scoreset1" class="playerscore">
+                <p>0</p>
+            </div>
+            <div id="player2scoreset2" class="playerscore">
+                <p>0</p>
+            </div>
+            <div id="player2scoreset3" class="playerscore">
+                <p>0</p>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/tv.js') }}"></script>
+</body>
+</html>

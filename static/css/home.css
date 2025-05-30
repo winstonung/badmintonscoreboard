@@ -1,0 +1,23 @@
+.left {
+    height: 20vw;
+    width: 16*20/9vw;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; /* Stack players vertically */
+    float: left;
+    padding: 1vw 0;
+}
+
+.right {
+    height: 20vw;
+    width: 16*20/9vw;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column; /* Stack players vertically */
+    float: right;
+    padding: 1vw 0;
+}

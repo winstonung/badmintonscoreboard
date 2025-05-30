@@ -1,0 +1,85 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flag {
+    width: 43.47px;
+    aspect-ratio: 16/9;
+}
+
+p {
+    font-size: 32px;
+}
+
+#scoreboard {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.player {
+    display: flex;
+    height: 62.05px;
+    width: 490.35px;
+    align-items: center;
+    overflow: hidden;          /* Hide overflow beyond container width */
+    flex-wrap: nowrap;         /* Prevent wrapping */
+}
+
+
+.playername {
+    width: 265.53px;
+    height: 60.55px;
+    justify-content: flex-start;
+    padding: 0 10px;
+    border: 1px solid black;
+    border-right: none;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.playername p {
+    margin: 0;
+    background-color: white;
+    text-align: center;
+}
+
+.serve {
+    width: 40.56px;
+    height:60.53px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px solid black;
+    border-left: none;
+    background-color: white;
+}
+
+.serve img {
+    width: 30.56px;
+    height: 30.81px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.playerscore {
+    width: 62.05px;
+    height: 60.55px;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 1px 1px;
+    background-color: black;
+    float: right;
+}
+

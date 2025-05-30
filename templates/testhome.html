@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/testhome.css') }}">
+</head>
+<body>
+    <h1>Create new scoreboard</h1>
+    <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+    <div class="sport">
+        <label for="sport">Select Sport:</label>
+        <select id="sport" name="sport">
+            <option value="badminton">Badminton</option>
+            <option value="volleyball">Volleyball</option>
+        </select>
+    </div>
+    <p id="themeselect">Select Theme:</p>
+    <div class="theme">
+        <button id="themebwf">BWF</button>
+        <button id="themebucs">BUCS</button>
+        <button id="themeallengland">All England</button>
+    </div>
+    <div id="admin-container">
+        <form id="adminForm">
+            <div class="player-form">
+                <!-- Player 1 Form -->
+                <div class="form-group">
+                    <label for="player1name">Player 1 Name:</label>
+                    <input type="text" id="player1name" name="player1name">
+
+                    <label for="player1short">Player 1 Short Name:</label>
+                    <input type="text" id="player1short" name="player1short">
+
+                    <label for="player1country">Player 1 Country:</label>
+                    <select id="player1country" class="country-select" name="player1country"></select>
+
+                    <input type="hidden" id="player1countrycode" name="player1countrycode">
+                    <img id="player1flag" src="" alt="Player 1 Flag" class="flag">
+                </div>
+
+                <!-- Player 2 Form -->
+                <div class="form-group">
+                    <label for="player2name">Player 2 Name:</label>
+                    <input type="text" id="player2name" name="player2name">
+
+                    <label for="player2short">Player 2 Short Name:</label>
+                    <input type="text" id="player2short" name="player2short">
+
+                    <label for="player2country">Player 2 Country:</label>
+                    <select id="player2country" class="country-select" name="player2country"></select>
+
+                    <input type="hidden" id="player2countrycode" name="player2countrycode">
+                    <img id="player2flag" src="" alt="Player 2 Flag" class="flag">
+                </div>
+            </div>
+
+            <button id="createscoreboard">Create Scoreboard</button>
+        </form>
+    </div>
+    <script src="{{ url_for('static', filename='js/testhome.js') }}"></script>
+</body>
+</html>

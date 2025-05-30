@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/home.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            text-decoration: none;
+            color: #007BFF;
+            font-size: 18px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Scoreboard</h1>
+    <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+
+    <a href="/scoreboard/{{ scoreboard_id }}/umpire" target="_blank" rel="noopener noreferrer"><img src="\static\images\umpire.png" alt="Umpire Control" class="left"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/admin" target="_blank" rel="noopener noreferrer"><img src="\static\images\admin.png" alt="Admin Control" class="right"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view1" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard1.png" alt="Scoreboard 1" class="left"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view2" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard2.png" alt="Scoreboard 2" class="right"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view3" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard3.png" alt="Scoreboard 3" class="left"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view4" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard4.png" alt="Scoreboard 4" class="right"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view5" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard5.png" alt="Scoreboard 5" class="left"></a>
+    <a href="/scoreboard/{{ scoreboard_id }}/view6" target="_blank" rel="noopener noreferrer"><img src="\static\images\scoreboard6.png" alt="Scoreboard 6" class="right"></a>
+</body>
+</html>

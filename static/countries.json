@@ -1,0 +1,1031 @@
+{
+  "Aruba": [
+    "aw.png",
+    "ARU"
+  ],
+  "Afghanistan": [
+    "af.png",
+    "AFG"
+  ],
+  "Angola": [
+    "ao.png",
+    "ANG"
+  ],
+  "Anguilla": [
+    "ai.png",
+    "AIA"
+  ],
+  "\u00c5land Islands": [
+    "ax.png",
+    "ALA"
+  ],
+  "Albania": [
+    "al.png",
+    "ALB"
+  ],
+  "Andorra": [
+    "ad.png",
+    "AND"
+  ],
+  "United Arab Emirates": [
+    "ae.png",
+    "UAE"
+  ],
+  "Argentina": [
+    "ar.png",
+    "ARG"
+  ],
+  "Armenia": [
+    "am.png",
+    "ARM"
+  ],
+  "American Samoa": [
+    "as.png",
+    "ASA"
+  ],
+  "Antarctica": [
+    "aq.png",
+    "ATA"
+  ],
+  "French Southern Territories": [
+    "tf.png",
+    "ATF"
+  ],
+  "Antigua and Barbuda": [
+    "ag.png",
+    "ANT"
+  ],
+  "Australia": [
+    "au.png",
+    "AUS"
+  ],
+  "Austria": [
+    "at.png",
+    "AUT"
+  ],
+  "Azerbaijan": [
+    "az.png",
+    "AZE"
+  ],
+  "Burundi": [
+    "bi.png",
+    "BDI"
+  ],
+  "Belgium": [
+    "be.png",
+    "BEL"
+  ],
+  "Benin": [
+    "bj.png",
+    "BEN"
+  ],
+  "Bonaire, Sint Eustatius and Saba": [
+    "bq.png",
+    "BES"
+  ],
+  "Burk": [
+    "bf.png",
+    "BUR"
+  ],
+  "Bangladesh": [
+    "bd.png",
+    "BAN"
+  ],
+  "Bulgaria": [
+    "bg.png",
+    "BUL"
+  ],
+  "Bahrain": [
+    "bh.png",
+    "BRN"
+  ],
+  "Bahamas": [
+    "bs.png",
+    "BAH"
+  ],
+  "Bosnia and Herzegovina": [
+    "ba.png",
+    "BIH"
+  ],
+  "Saint Barth\u00e9lemy": [
+    "bl.png",
+    "BLM"
+  ],
+  "Belarus": [
+    "by.png",
+    "BLR"
+  ],
+  "Belize": [
+    "bz.png",
+    "BIZ"
+  ],
+  "Bermuda": [
+    "bm.png",
+    "BER"
+  ],
+  "Bolivia": [
+    "bo.png",
+    "BOL"
+  ],
+  "Brazil": [
+    "br.png",
+    "BRA"
+  ],
+  "Barbados": [
+    "bb.png",
+    "BAR"
+  ],
+  "Brunei": [
+    "bn.png",
+    "BRU"
+  ],
+  "Bhutan": [
+    "bt.png",
+    "BHU"
+  ],
+  "Bouvet Island": [
+    "bv.png",
+    "BVT"
+  ],
+  "Botswana": [
+    "bw.png",
+    "BOT"
+  ],
+  "Central African Republic": [
+    "cf.png",
+    "CAF"
+  ],
+  "Canada": [
+    "ca.png",
+    "CAN"
+  ],
+  "Cocos (Keeling) Islands": [
+    "cc.png",
+    "CCK"
+  ],
+  "Switzerland": [
+    "ch.png",
+    "SUI"
+  ],
+  "Chile": [
+    "cl.png",
+    "CHI"
+  ],
+  "China": [
+    "cn.png",
+    "CHN"
+  ],
+  "Ivory Coast": [
+    "ci.png",
+    "CIV"
+  ],
+  "Cameroon": [
+    "cm.png",
+    "CMR"
+  ],
+  "Democratic Republic of the Congo": [
+    "cd.png",
+    "COD"
+  ],
+  "Republic of the Congo": [
+    "cg.png",
+    "CGO"
+  ],
+  "Cook Islands": [
+    "ck.png",
+    "COK"
+  ],
+  "Colombia": [
+    "co.png",
+    "COL"
+  ],
+  "Comoros": [
+    "km.png",
+    "COM"
+  ],
+  "Cabo Verde": [
+    "cv.png",
+    "CPV"
+  ],
+  "Costa Rica": [
+    "cr.png",
+    "CRC"
+  ],
+  "Cuba": [
+    "cu.png",
+    "CUB"
+  ],
+  "Cura\u00e7ao": [
+    "cw.png",
+    "CUW"
+  ],
+  "Christmas Island": [
+    "cx.png",
+    "CXR"
+  ],
+  "Cayman Islands": [
+    "ky.png",
+    "CAY"
+  ],
+  "Cyprus": [
+    "cy.png",
+    "CYP"
+  ],
+  "Czechia": [
+    "cz.png",
+    "CZE"
+  ],
+  "Germany": [
+    "de.png",
+    "GER"
+  ],
+  "Djibouti": [
+    "dj.png",
+    "DJI"
+  ],
+  "Dominica": [
+    "dm.png",
+    "DMA"
+  ],
+  "Denmark": [
+    "dk.png",
+    "DEN"
+  ],
+  "Dominican Republic": [
+    "do.png",
+    "DOM"
+  ],
+  "Algeria": [
+    "dz.png",
+    "ALG"
+  ],
+  "Ecuador": [
+    "ec.png",
+    "ECU"
+  ],
+  "Egypt": [
+    "eg.png",
+    "EGY"
+  ],
+  "Eritrea": [
+    "er.png",
+    "ERI"
+  ],
+  "Western Sahara": [
+    "eh.png",
+    "ESH"
+  ],
+  "Spain": [
+    "es.png",
+    "ESP"
+  ],
+  "Estonia": [
+    "ee.png",
+    "EST"
+  ],
+  "Ethiopia": [
+    "et.png",
+    "ETH"
+  ],
+  "Finland": [
+    "fi.png",
+    "FIN"
+  ],
+  "Fiji": [
+    "fj.png",
+    "FJI"
+  ],
+  "Falkland Islands (Malvinas)": [
+    "fk.png",
+    "FLK"
+  ],
+  "France": [
+    "fr.png",
+    "FRA"
+  ],
+  "Faroe Islands": [
+    "fo.png",
+    "FRO"
+  ],
+  "Federated States of Micronesia": [
+    "fm.png",
+    "FSM"
+  ],
+  "Gabon": [
+    "ga.png",
+    "GAB"
+  ],
+  "United Kingdom": [
+    "gb.png",
+    "GBR"
+  ],
+  "Georgia": [
+    "ge.png",
+    "GEO"
+  ],
+  "Guernsey": [
+    "gg.png",
+    "GGY"
+  ],
+  "Ghana": [
+    "gh.png",
+    "GHA"
+  ],
+  "Gibraltar": [
+    "gi.png",
+    "GIB"
+  ],
+  "Guinea": [
+    "gn.png",
+    "GUI"
+  ],
+  "Guadeloupe": [
+    "gp.png",
+    "GLP"
+  ],
+  "Gambia": [
+    "gm.png",
+    "GAM"
+  ],
+  "Guinea-Bissau": [
+    "gw.png",
+    "GEQ"
+  ],
+  "Equatorial Guinea": [
+    "gq.png",
+    "GNQ"
+  ],
+  "Greece": [
+    "gr.png",
+    "GRE"
+  ],
+  "Grenada": [
+    "gd.png",
+    "GRN"
+  ],
+  "Greenland": [
+    "gl.png",
+    "GRL"
+  ],
+  "Guatemala": [
+    "gt.png",
+    "GUA"
+  ],
+  "French Guiana": [
+    "gf.png",
+    "GUF"
+  ],
+  "Guam": [
+    "gu.png",
+    "GUM"
+  ],
+  "Guyana": [
+    "gy.png",
+    "GUY"
+  ],
+  "Hong Kong": [
+    "hk.png",
+    "HKG"
+  ],
+  "Heard Island and McDonald Islands": [
+    "hm.png",
+    "HMD"
+  ],
+  "Honduras": [
+    "hn.png",
+    "HON"
+  ],
+  "Croatia": [
+    "hr.png",
+    "CRO"
+  ],
+  "Haiti": [
+    "ht.png",
+    "HAI"
+  ],
+  "Hungary": [
+    "hu.png",
+    "HUN"
+  ],
+  "Indonesia": [
+    "id.png",
+    "INA"
+  ],
+  "Isle of Man": [
+    "im.png",
+    "IMN"
+  ],
+  "India": [
+    "in.png",
+    "IND"
+  ],
+  "British Indian Ocean Territory": [
+    "io.png",
+    "IOT"
+  ],
+  "Ireland": [
+    "ie.png",
+    "IRL"
+  ],
+  "Iran": [
+    "ir.png",
+    "IRI"
+  ],
+  "Iraq": [
+    "iq.png",
+    "IRQ"
+  ],
+  "Iceland": [
+    "is.png",
+    "ISL"
+  ],
+  "Israel": [
+    "il.png",
+    "ISR"
+  ],
+  "Italy": [
+    "it.png",
+    "ITA"
+  ],
+  "Jamaica": [
+    "jm.png",
+    "JAM"
+  ],
+  "Jersey": [
+    "je.png",
+    "JEY"
+  ],
+  "Jordan": [
+    "jo.png",
+    "JOR"
+  ],
+  "Japan": [
+    "jp.png",
+    "JPN"
+  ],
+  "Kazakhstan": [
+    "kz.png",
+    "KAZ"
+  ],
+  "Kenya": [
+    "ke.png",
+    "KEN"
+  ],
+  "Kyrgyzstan": [
+    "kg.png",
+    "KGZ"
+  ],
+  "Cambodia": [
+    "kh.png",
+    "CAM"
+  ],
+  "Kiribati": [
+    "ki.png",
+    "KIR"
+  ],
+  "Saint Kitts and Nevis": [
+    "kn.png",
+    "SKN"
+  ],
+  "South Korea": [
+    "kr.png",
+    "KOR"
+  ],
+  "Kuwait": [
+    "kw.png",
+    "KUW"
+  ],
+  "Laos": [
+    "la.png",
+    "LAO"
+  ],
+  "Lebanon": [
+    "lb.png",
+    "LBN"
+  ],
+  "Liberia": [
+    "lr.png",
+    "LBR"
+  ],
+  "Libya": [
+    "ly.png",
+    "LBA"
+  ],
+  "Saint Lucia": [
+    "lc.png",
+    "LCA"
+  ],
+  "Liechtenstein": [
+    "li.png",
+    "LIE"
+  ],
+  "Sri Lanka": [
+    "lk.png",
+    "SRI"
+  ],
+  "Lesotho": [
+    "ls.png",
+    "LES"
+  ],
+  "Lithuania": [
+    "lt.png",
+    "LTU"
+  ],
+  "Luxembourg": [
+    "lu.png",
+    "LUX"
+  ],
+  "Latvia": [
+    "lv.png",
+    "LAT"
+  ],
+  "Macao": [
+    "mo.png",
+    "MAC"
+  ],
+  "Saint Martin (French part)": [
+    "mf.png",
+    "MAF"
+  ],
+  "Morocco": [
+    "ma.png",
+    "MAR"
+  ],
+  "Monaco": [
+    "mc.png",
+    "MON"
+  ],
+  "Moldova": [
+    "md.png",
+    "MDA"
+  ],
+  "Madagascar": [
+    "mg.png",
+    "MAD"
+  ],
+  "Maldives": [
+    "mv.png",
+    "MDV"
+  ],
+  "Mexico": [
+    "mx.png",
+    "MEX"
+  ],
+  "Marshall Islands": [
+    "mh.png",
+    "MHL"
+  ],
+  "North Macedonia": [
+    "mk.png",
+    "MKD"
+  ],
+  "Mali": [
+    "ml.png",
+    "MLI"
+  ],
+  "Malta": [
+    "mt.png",
+    "MLT"
+  ],
+  "Myanmar": [
+    "mm.png",
+    "MYA"
+  ],
+  "Montenegro": [
+    "me.png",
+    "MNE"
+  ],
+  "Mongolia": [
+    "mn.png",
+    "MGL"
+  ],
+  "Northern Mariana Islands": [
+    "mp.png",
+    "MNP"
+  ],
+  "Mozambique": [
+    "mz.png",
+    "MOZ"
+  ],
+  "Mauritania": [
+    "mr.png",
+    "MTN"
+  ],
+  "Montserrat": [
+    "ms.png",
+    "MSR"
+  ],
+  "Martinique": [
+    "mq.png",
+    "MTQ"
+  ],
+  "Mauritius": [
+    "mu.png",
+    "MRI"
+  ],
+  "Malawi": [
+    "mw.png",
+    "MAW"
+  ],
+  "Malaysia": [
+    "my.png",
+    "MAS"
+  ],
+  "Mayotte": [
+    "yt.png",
+    "MYT"
+  ],
+  "Namibia": [
+    "na.png",
+    "NAM"
+  ],
+  "New Caledonia": [
+    "nc.png",
+    "NCL"
+  ],
+  "Niger": [
+    "ne.png",
+    "NIG"
+  ],
+  "Norfolk Island": [
+    "nf.png",
+    "NFK"
+  ],
+  "Nigeria": [
+    "ng.png",
+    "NGR"
+  ],
+  "Nicaragua": [
+    "ni.png",
+    "NCA"
+  ],
+  "Niue": [
+    "nu.png",
+    "NIU"
+  ],
+  "Netherlands": [
+    "nl.png",
+    "NED"
+  ],
+  "Norway": [
+    "no.png",
+    "NOR"
+  ],
+  "Nepal": [
+    "np.png",
+    "NEP"
+  ],
+  "Nauru": [
+    "nr.png",
+    "NRU"
+  ],
+  "New Zealand": [
+    "nz.png",
+    "NZL"
+  ],
+  "Oman": [
+    "om.png",
+    "OMA"
+  ],
+  "Pakistan": [
+    "pk.png",
+    "PAK"
+  ],
+  "Panama": [
+    "pa.png",
+    "PAN"
+  ],
+  "Pitcairn": [
+    "pn.png",
+    "PCN"
+  ],
+  "Peru": [
+    "pe.png",
+    "PER"
+  ],
+  "Philippines": [
+    "ph.png",
+    "PHI"
+  ],
+  "Palau": [
+    "pw.png",
+    "PLW"
+  ],
+  "Papua New Guinea": [
+    "pg.png",
+    "PNG"
+  ],
+  "Poland": [
+    "pl.png",
+    "POL"
+  ],
+  "Puerto Rico": [
+    "pr.png",
+    "PUR"
+  ],
+  "North Korea": [
+    "kp.png",
+    "PRK"
+  ],
+  "Portugal": [
+    "pt.png",
+    "POR"
+  ],
+  "Paraguay": [
+    "py.png",
+    "PAR"
+  ],
+  "Palestine": [
+    "ps.png",
+    "PLE"
+  ],
+  "French Polynesia": [
+    "pf.png",
+    "PYF"
+  ],
+  "Qatar": [
+    "qa.png",
+    "QAT"
+  ],
+  "R\u00e9union": [
+    "re.png",
+    "REU"
+  ],
+  "Romania": [
+    "ro.png",
+    "ROU"
+  ],
+  "Russia": [
+    "ru.png",
+    "RUS"
+  ],
+  "Rwanda": [
+    "rw.png",
+    "RWA"
+  ],
+  "Saudi Arabia": [
+    "sa.png",
+    "KSA"
+  ],
+  "Sudan": [
+    "sd.png",
+    "SUD"
+  ],
+  "Senegal": [
+    "sn.png",
+    "SEN"
+  ],
+  "Singapore": [
+    "sg.png",
+    "SGP"
+  ],
+  "South Georgia and the South Sandwich Islands": [
+    "gs.png",
+    "SGS"
+  ],
+  "Saint Helena, Ascension and Tristan da Cunha": [
+    "sh.png",
+    "SHN"
+  ],
+  "Svalbard and Jan Mayen": [
+    "sj.png",
+    "SJM"
+  ],
+  "Solomon Islands": [
+    "sb.png",
+    "SOL"
+  ],
+  "Sierra Leone": [
+    "sl.png",
+    "SLE"
+  ],
+  "El Salvador": [
+    "sv.png",
+    "ESA"
+  ],
+  "San Marino": [
+    "sm.png",
+    "SMR"
+  ],
+  "Somalia": [
+    "so.png",
+    "SOM"
+  ],
+  "Saint Pierre and Miquelon": [
+    "pm.png",
+    "SPM"
+  ],
+  "Serbia": [
+    "rs.png",
+    "SRB"
+  ],
+  "South Sudan": [
+    "ss.png",
+    "SSD"
+  ],
+  "Sao Tomé and Principe": [
+    "st.png",
+    "STP"
+  ],
+  "Suriname": [
+    "sr.png",
+    "SUR"
+  ],
+  "Slovakia": [
+    "sk.png",
+    "SVK"
+  ],
+  "Slovenia": [
+    "si.png",
+    "SLO"
+  ],
+  "Sweden": [
+    "se.png",
+    "SWE"
+  ],
+  "Eswatini": [
+    "sz.png",
+    "SWZ"
+  ],
+  "Sint Maarten (Dutch part)": [
+    "sx.png",
+    "SXM"
+  ],
+  "Seychelles": [
+    "sc.png",
+    "SEY"
+  ],
+  "Syrian Arab Republic": [
+    "sy.png",
+    "SYR"
+  ],
+  "Turks and Caicos Islands": [
+    "tc.png",
+    "TCA"
+  ],
+  "Chad": [
+    "td.png",
+    "CHA"
+  ],
+  "Togo": [
+    "tg.png",
+    "TOG"
+  ],
+  "Thailand": [
+    "th.png",
+    "THA"
+  ],
+  "Tajikistan": [
+    "tj.png",
+    "TJK"
+  ],
+  "Tokelau": [
+    "tk.png",
+    "TKL"
+  ],
+  "Turkmenistan": [
+    "tm.png",
+    "TKM"
+  ],
+  "Timor-Leste": [
+    "tl.png",
+    "TLS"
+  ],
+  "Tonga": [
+    "to.png",
+    "TGA"
+  ],
+  "Trinidad and Tobago": [
+    "tt.png",
+    "TTO"
+  ],
+  "Tunisia": [
+    "tn.png",
+    "TUN"
+  ],
+  "Turkey": [
+    "tr.png",
+    "TUR"
+  ],
+  "Tuvalu": [
+    "tv.png",
+    "TUV"
+  ],
+  "Taiwan": [
+    "tw.png",
+    "TWN"
+  ],
+  "Chinese Tapei": [
+    "tapei.png",
+    "TPE"
+  ],
+  "Tanzania": [
+    "tz.png",
+    "TAN"
+  ],
+  "Uganda": [
+    "ug.png",
+    "UGA"
+  ],
+  "Ukraine": [
+    "ua.png",
+    "UKR"
+  ],
+  "United States Minor Outlying Islands": [
+    "um.png",
+    "UMI"
+  ],
+  "Uruguay": [
+    "uy.png",
+    "URU"
+  ],
+  "United States": [
+    "us.png",
+    "USA"
+  ],
+  "Uzbekistan": [
+    "uz.png",
+    "UZB"
+  ],
+  "Holy See (Vatican City State)": [
+    "va.png",
+    "VAT"
+  ],
+  "Saint Vincent and the Grenadines": [
+    "vc.png",
+    "VIN"
+  ],
+  "Venezuela": [
+    "ve.png",
+    "VEN"
+  ],
+  "British Virgin Islands": [
+    "vg.png",
+    "IVB"
+  ],
+  "Virgin Islands": [
+    "vi.png",
+    "ISV"
+  ],
+  "Vietnam": [
+    "vn.png",
+    "VIE"
+  ],
+  "Vanuatu": [
+    "vu.png",
+    "VAN"
+  ],
+  "Wallis and Futuna": [
+    "wf.png",
+    "WLF"
+  ],
+  "Samoa": [
+    "ws.png",
+    "SAM"
+  ],
+  "Yemen": [
+    "ye.png",
+    "YEM"
+  ],
+  "South Africa": [
+    "za.png",
+    "RSA"
+  ],
+  "Zambia": [
+    "zm.png",
+    "ZAM"
+  ],
+  "Zimbabwe": [
+    "zw.png",
+    "ZIM"
+  ],
+  "England": [
+    "gb-eng.png",
+    "ENG"
+  ],
+  "Scotland": [
+    "gb-sct.png",
+    "SCT"
+  ],
+  "Wales": [
+    "gb-wls.png",
+    "WLS"
+  ],
+  "Northern Ireland": [
+    "gb-nir.png",
+    "NIR"
+  ],
+  "Great Britain": [
+    "gb.png",
+    "GBR"
+  ]
+  ,
+  "Burkina Faso": [
+    "bf.png",
+    "BUR"
+  ],
+  "Kosovo": [
+    "xk.png",
+    "KOS"
+  ]
+}

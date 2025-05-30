@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Panel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body>
+    <div id="admin-container">
+        <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+        <h1>Admin Panel</h1>
+        <form id="adminForm">
+            <div class="player-form">
+                <!-- Player 1 Form -->
+                <div class="form-group">
+                    <label for="player1name">Player 1 Name:</label>
+                    <input type="text" id="player1name" name="player1name">
+
+                    <label for="player1short">Player 1 Short Name:</label>
+                    <input type="text" id="player1short" name="player1short">
+
+                    <label for="player1country">Player 1 Country:</label>
+                    <select id="player1country" class="country-select" name="player1country"></select>
+
+                    <input type="hidden" id="player1countrycode" name="player1countrycode">
+                    <img id="player1flag" src="" alt="Player 1 Flag" class="flag">
+                </div>
+
+                <!-- Player 2 Form -->
+                <div class="form-group">
+                    <label for="player2name">Player 2 Name:</label>
+                    <input type="text" id="player2name" name="player2name">
+
+                    <label for="player2short">Player 2 Short Name:</label>
+                    <input type="text" id="player2short" name="player2short">
+
+                    <label for="player2country">Player 2 Country:</label>
+                    <select id="player2country" class="country-select" name="player2country"></select>
+
+                    <input type="hidden" id="player2countrycode" name="player2countrycode">
+                    <img id="player2flag" src="" alt="Player 2 Flag" class="flag">
+                </div>
+            </div>
+
+            <button type="submit" id="save-button">Save</button>
+            <button type="refresh" id="refresh-button">Refresh</button>
+        </form>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+</body>
+</html>

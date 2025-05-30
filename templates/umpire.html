@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umpire</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/umpire.css') }}">
+</head>
+<body>
+    <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+    <div class="toprow">
+        <div class="currentset">
+            <p>Current Set</p>
+            <select id="currentset" name="currentset" onchange="updateCurrentSet(this.value)">
+                <option value=0>1</option>
+                <option value=1>2</option>
+                <option value=2>3</option>
+            </select>
+        </div>
+        <div class="undo">
+            <p>Undo Last Point</p>
+            <button class="undo">Undo</button>
+        </div>
+        <p id="sets">Set 1: 0-0 <br>Set 2: 0-0<br>Set 3: 0-0</p>
+        <div class="reset">
+            <p>Reset Set</p>
+            <button class="resetbutton">Reset</button>
+        </div>
+        <div class="resetall">
+            <p>Reset All Sets</p>
+            <button class="resetallbutton">Reset All</button>
+        </div>
+    </div>
+    <div class="scoreboard">
+        <div class="player1name">
+            <img class="flag" id="player1flag" src="/static/flagsv2/dk.png" alt="Flag">
+            <p class="countrycode">DEN</p>
+            <p class="name">Viktor Axelsen</p>
+            <div>
+                <img class="shuttle" id="player1serve" src="/static/images/shuttlecock.png">
+            </div>
+        </div>
+        <div class="player1score">
+            <p>2</p>
+        </div>
+        <div class="player2score">
+            <p>0</p>
+        </div>
+        <div class="player2name">
+            <img class="flag" id="player2flag" src="/static/flagsv2/my.png" alt="Flag">
+            <p class="countrycode">MAS</p>
+            <p class="name">Lee Zii Jia</p>
+            <div>
+                <img class="shuttle" id="player2serve"src="/static/images/shuttlecock.png">
+            </div>
+        </div>
+        
+    </div>
+    <div class="bottomrow">
+        <div class="scoreplayer1">
+            <button id="buttonplayer1">+1</button>
+        </div>
+        <div class="swapplayers">
+            <button id="swap">Swap</button>
+        </div>
+        <div class="scoreplayer2">
+            <button id="buttonplayer2">+1</button>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/umpire.js') }}"></script>
+</body>
+</html>

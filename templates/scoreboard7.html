@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Scoreboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/scoreboard.css') }}">
+</head>
+<body>
+    <p id="scoreboard_id" style="display: none;">{{ scoreboard_id }}</p>
+    <div id="scoreboard">
+        <div id="player1" class="player">
+            <div id="player1name" class="playername">
+                <p><img src="" class="flag"><span class="countrycode"></span></p>
+            </div>
+        </div>
+        <div id="player2" class="player">
+            <div id="player2name" class="playername">
+                <p><img src="" class="flag"><span class="countrycode"></span></p>
+            </div>
+        </div>
+    </div>
+    
+    <div class="last-point">
+        <p></p>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/scoreboard.js') }}"></script>
+</body>
+</html>

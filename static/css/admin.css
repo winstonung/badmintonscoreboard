@@ -1,0 +1,108 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#admin-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* Form Layout */
+.player-form {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.form-group {
+    flex: 1;
+    min-width: 200px;
+    padding: 15px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Form Inputs */
+.form-group label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 6px;
+    color: #444;
+    width: 200px;
+}
+
+.form-group input,
+.form-group select {
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 375px;
+}
+
+/* Flag Styling */
+.flag {
+    width: 90px;
+    height: 60px;
+    object-fit: cover;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    display: block;
+}
+
+#lastscorer {
+    width: 50%;
+    padding: 8px 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* Save Button */
+#save-button, #refresh-button, #createscoreboard {
+    display: block;
+    margin: 30px auto 0;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#save-button:hover, #refresh-button:hover, #createscoreboard:hover {
+    background-color: #45a049;
+}
+
+.flag-icon {
+    width: 20px;
+    height: 15px;
+    margin-right: 8px;
+    vertical-align: middle;
+  }
+  .select2-selection__rendered img.flag-icon {
+    margin-right: 5px;
+  }
+  

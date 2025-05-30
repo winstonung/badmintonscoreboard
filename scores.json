@@ -1,0 +1,51 @@
+{
+    "current_set": 1,
+    "id": 2,
+    "last_scorer": [
+        [
+            "player1",
+            "player2",
+            "player2",
+            "player2"
+        ],
+        [],
+        []
+    ],
+    "player1": {
+        "country": "Great Britain",
+        "countrycode": "GBR",
+        "flag": "gb.png",
+        "name": "Player 1",
+        "score": [
+            [
+                0,
+                1,
+                1,
+                1,
+                1
+            ],
+            [],
+            []
+        ],
+        "shortname": "P1"
+    },
+    "player2": {
+        "country": "Great Britain",
+        "countrycode": "GBR",
+        "flag": "gb.png",
+        "name": "Player 2",
+        "score": [
+            [
+                0,
+                0,
+                1,
+                2,
+                3
+            ],
+            [],
+            []
+        ],
+        "shortname": "P2"
+    },
+    "success": true
+}

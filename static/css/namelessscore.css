@@ -1,0 +1,55 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden; /* Prevent scrollbars */
+}
+
+#scoreboard {
+    display: flex;
+    flex-direction: column; /* Stack players vertically */
+    height: 100vh;
+    width: 100vw;
+}
+
+.player {
+    flex: 1; /* Each player takes up 50% of the screen height */
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height:50vw;
+}
+
+.player1score, .player2score {
+    flex: 1;                      /* Equal width for each */
+    height: 100%;                 /* Match parent height */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30vh;               /* Optional: scalable text */
+    font-weight: bold;
+}
+
+.player1score p, .player2score p {
+    margin: 0;
+    line-height: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.player1score {
+    color: rgb(222, 139, 51);
+}
+
+.player2score {
+    color: rgb(118, 199, 60);
+}
+
+
+.last-point {
+    display: none; /* Hide if not used */
+}
